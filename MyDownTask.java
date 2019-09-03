@@ -1,6 +1,4 @@
-//Name: Li Sing
-//ID: 54805981
-package singli2;
+package singli;
 
 import java.awt.Dimension;
 import java.io.File;
@@ -14,7 +12,7 @@ import static singli2.MyDownloadManager.over;
 
 /**
  *
- * @author sjxy
+ * @author singli
  */
 public class MyDownTask extends javax.swing.JPanel {
 
