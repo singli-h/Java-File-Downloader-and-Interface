@@ -1,8 +1,5 @@
-//Name: Li Sing
-//ID: 54805981
-//line 148: Extra Function 5: Alert wrong directory and reset to default
-//line 154: Extra Function 6: Allow user to set own download directory
-package singli2;
+
+package singli;
 
 import java.awt.Dimension;
 import java.io.File;
@@ -12,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sjxy
+ * @author singli
  */
 public class MyDownloadManager extends javax.swing.JFrame {
 
