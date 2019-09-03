@@ -1,10 +1,9 @@
-//Name: Li Sing
-//ID: 54805981
+
 //line 36: Extra Function 1: Open downloaded file directly
 //line 74: Extra Function 2: Change file size to appropriate unit 
 //line 103: Extra Funtion 3: Limit output to 2 decimal places.
 //line 117: Extra Funtion 4: Alert can not connect to host/ invalid URL
-package singli2;
+package singli;
 
 import java.awt.Desktop;
 import java.io.BufferedInputStream;
@@ -19,7 +18,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sjxy
+ * @author singli
  */
 public class HttpConnection implements Runnable {
 
